@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+form {
+  background: transparent !important;
+  width: 600px;
+}
